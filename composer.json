@@ -1,0 +1,28 @@
+{
+  "name": "example/php-backend-task",
+  "description": "A simple PHP app for syncing data from an external API to a database",
+  "type": "project",
+  "require": {
+    "php": "^7.4",
+    "php-di/php-di": "^6.4",
+    "monolog/monolog": "^2.10"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "9.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "scripts": {
+    "start": "php -S localhost:8000 -t public",
+    "test": "phpunit --testdox"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "preferred-install": "dist"
+  },
+  "minimum-stability": "stable",
+  "license": "MIT"
+}

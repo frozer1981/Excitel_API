@@ -1,0 +1,24 @@
+[
+  {
+    "index": 2,
+    "_id": "12333456",
+    "guid": "abc123",
+    "name": "Test 1",
+    "status": "Active",
+    "price": "$100.00",
+    "type": "Fiber",
+    "category": "Monthly",
+    "tags": ["tag1", "tag2"]
+  },
+  {
+    "index": 3,
+    "_id": "1233345622",
+    "guid": "abc123dsadsa",
+    "name": "Test 1",
+    "status": "Active",
+    "price": "$100.00",
+    "type": "Fiber",
+    "category": "Quarterly",
+    "tags": ["tag1"]
+  }
+]

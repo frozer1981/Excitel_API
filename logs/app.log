@@ -1,0 +1,6 @@
+[2024-11-25 14:51:44] [DEBUG] Processing plan: {"index":2,"_id":"12333456","guid":"abc123","name":"Test 1","status":"Active","price":"$100.00","type":"Fiber","category":"Monthly","tags":["tag1","tag2"]}
+[2024-11-25 14:51:44] [DEBUG] Processing plan: {"index":3,"_id":"1233345622","guid":"abc123dsadsa","name":"Test 1","status":"Active","price":"$100.00","type":"Fiber","category":"Quarterly","tags":["tag1"]}
+[2024-11-25 14:51:44] [INFO] {"processed":0,"unchanged":2,"invalid":0,"message":"Synchronization completed"}
+[2024-11-25 14:51:45] [DEBUG] Processing plan: {"index":2,"_id":"12333456","guid":"abc123","name":"Test 1","status":"Active","price":"$100.00","type":"Fiber","category":"Monthly","tags":["tag1","tag2"]}
+[2024-11-25 14:51:45] [DEBUG] Processing plan: {"index":3,"_id":"1233345622","guid":"abc123dsadsa","name":"Test 1","status":"Active","price":"$100.00","type":"Fiber","category":"Quarterly","tags":["tag1"]}
+[2024-11-25 14:51:45] [INFO] {"processed":0,"unchanged":2,"invalid":0,"message":"Synchronization completed"}
